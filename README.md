@@ -19,4 +19,4 @@ This has been a passion project for me — something I’ve been working on for 
 # 📌 Technologies Used:
  Power BI, DAX, advanced modeling, custom visuals, user-centered design principles.
 
-# 💬 I’d love to hear your thoughts or suggestions! Whether you're passionate about data, Power BI, or performance analytics—let’s connect.
+💬 I’d love to hear your thoughts or suggestions! Whether you're passionate about data, Power BI, or performance analytics—let’s connect.
