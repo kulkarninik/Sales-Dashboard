@@ -1,0 +1,36 @@
+{
+  "name": "Clean Professional Theme",
+  "dataColors": [
+    "#2D9CDB",  // Primary Blue
+    "#F2994A",  // Secondary Orange
+    "#27AE60",  // Positive Green
+    "#F2C94C",  // Warning Yellow
+    "#EB5757",  // Alert Red
+    "#56CCF2",  // Accent Sky Blue
+    "#BB6BD9",  // Violet Highlight
+    "#F4F6F9",  // Soft Background Tone
+    "#333333"   // Text Color
+  ],
+  "background": "#F4F6F9",
+  "foreground": "#333333",
+  "tableAccent": "#2D9CDB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": {
+          "color": { "solid": { "color": "#333333" } },
+          "fontSize": 14
+        },
+        "labelColor": {
+          "solid": { "color": "#555555" }
+        },
+        "background": {
+          "solid": { "color": "#FFFFFF" }
+        },
+        "border": {
+          "color": "#D1D5DB"
+        }
+      }
+    }
+  }
+}
